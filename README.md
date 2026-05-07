@@ -8,7 +8,6 @@ This is an H2
 > >hshshshs
 > > >jjjj
 
-1.ㅊ
-2.ㄷ
-3.ㅅ
-    Thisisis
+1. ㅊ
+2. ㄷ
+3. ㅅ
